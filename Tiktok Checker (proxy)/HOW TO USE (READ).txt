@@ -1,0 +1,14 @@
+--Important: You need Python download at: https://www.python.org/downloads/
+
+1. Run the "Run.bat" file.
+2. Open usernames.txt and click CTRL + A and then Delete.
+3. Go to https://random.org/strings
+4. Gen 10,000 Strings and put 4 "Each string should be".
+5. Copy all 4L strings.
+6. Paste the 4L strings into usernames.txt
+7. Open usernames_gen.exe
+8. open main.py
+9. In "threads:" put 100 or 1000
+10. Let it just run and keep an eye on the checker for any available users!
+
+--checker made by SusanYoung#6548
